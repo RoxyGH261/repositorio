@@ -10,6 +10,10 @@ p{font-size:  18px;}
 	line-height: 1.6;
 
 }
+.centrado{
+    margin:10px auto;
+    display:block;
+}
 .summary{
 	/*background-color: green;*/
 	display: inline-block;
@@ -33,7 +37,7 @@ p{font-size:  18px;}
 	background-color: #B0C4DE;}
 th{border-radius: 9px;
     border-color: #000000;
-    background-color: #B0C4DE;
+    background-color: #74859c;
     padding-right: 12px;
     padding-bottom: 12px;
     padding-left: 12px;
@@ -43,8 +47,8 @@ th{border-radius: 9px;
     padding: center;
     text-emphasis-color: white;}
 td{border-radius: 9px;
-    border-color: #000000;
-    background-color: #f7f9fc;
+    border-color: #141212;
+    background-color: #bdcde4;
     padding-right: 12px;
     padding-bottom: 12px;
     padding-left: 12px;
@@ -52,4 +56,4 @@ td{border-radius: 9px;
     margin-top: 2 px;
     margin-bottom: 20px;
     padding: center;
-    text-emphasis-color: white;}
+    text-emphasis-color: rgb(165, 154, 154);}
