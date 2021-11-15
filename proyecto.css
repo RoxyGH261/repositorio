@@ -1,0 +1,55 @@
+body{
+	font-family: sans-serif;
+;}
+p{font-size:  18px;}
+.biography{
+	/*background-color: red; *//*similar a background*/
+	width:70%;
+	display: inline-block;
+	font-size: 14px;
+	line-height: 1.6;
+
+}
+.summary{
+	/*background-color: green;*/
+	display: inline-block;
+	vertical-align: top;
+	
+}
+
+.summary-table{
+	border:1px solid #a2a9b1;
+    border-radius: 9px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-top: 12px;
+    margin-top: 2 px;
+    margin-bottom: 20px;
+    padding: center;
+    }
+
+.summary-table thead th{
+	background-color: #B0C4DE;}
+th{border-radius: 9px;
+    border-color: #000000;
+    background-color: #B0C4DE;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-top: 12px;
+    margin-top: 2 px;
+    margin-bottom: 20px;
+    padding: center;
+    text-emphasis-color: white;}
+td{border-radius: 9px;
+    border-color: #000000;
+    background-color: #f7f9fc;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-top: 12px;
+    margin-top: 2 px;
+    margin-bottom: 20px;
+    padding: center;
+    text-emphasis-color: white;}
