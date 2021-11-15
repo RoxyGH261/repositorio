@@ -4,7 +4,35 @@ body{background-color: rgb(247, 188, 80);}
     display: inline-block;
     vertical-align: top;
 }
-._52ja_cx_cz_da{font-size: 24px;}
+._52ja_cx_cz_da{font-size: 24px; font-family: cursive,Lucida Bright;}
+.b ._4g33 {
+    border: 0;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+hoja_de_estilo_del_agente_de_usuario
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+}
+body, tr, input, textarea, .e {
+    font-size: medium;
+}
+body, tr, input, textarea, button {
+    font-family: sans-serif;
+}
+
+body {
+    text-align: left;
+    direction: ltr;
+}
 .cm {
     background: #eceff5;
 }
