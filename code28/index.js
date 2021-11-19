@@ -1,2 +1,3 @@
-function saludo(_user) {return("hola , ${_user}!")}
+function saludo(_user) {return(`Hola, ${_user}!`
+)}
 export{saludo}
