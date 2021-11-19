@@ -77,3 +77,85 @@ hoja de estilo del agente de usuario
 a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;}
+    .dz {
+        margin: 0 6
+    px
+     6
+    px
+    ;
+        padding: 6
+    px
+    ;
+    }
+    .dl {
+        border-color: #ccced3 #c4c6ca #b4b6ba;
+        border-style: solid;
+        border-width: 1px;}
+    .dk {
+        background: #fff;
+    }
+    hoja de estilo del agente de usuario
+    div {
+        display: block;
+    }
+    .dw {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .dy {
+        font-size: small;
+    }
+    body, tr, input, textarea, .f {
+        font-size: medium;
+    }
+    
+    body, tr, input, textarea, button {
+        font-family: sans-serif;
+    }
+    body {
+        text-align: left;
+        direction: ltr;
+    }
+    .dz {
+        margin: 0 6
+    px
+     6
+    px
+    ;
+        padding: 6
+    px
+    ;
+    }
+    .dl {
+        border-color: #ccced3 #c4c6ca #b4b6ba;
+        border-style: solid;
+        border-width: 1
+    px
+    ;
+    }
+    .dk {
+        background: #fff;
+    }
+    hoja de estilo del agente de usuario
+    div {
+        display: block;
+    }
+    .dw {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .dy {
+        font-size: small;
+    }
+    body, tr, input, textarea, .f {
+        font-size: medium;
+    }
+    body, tr, input, textarea, button {
+        font-family: sans-serif;
+    }
+    body {
+        text-align: left;
+        direction: ltr;
+    }
